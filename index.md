@@ -10,7 +10,7 @@ Report periodici di trend moda con focus su:
 
 ## Report disponibili
 
-- [Report 2026-04-08](./reports/fashion-trend-report-2026-04-08.html)
+- [Report 2026-04-08](./fashion-trend-report-2026-04-08.html)
 
 ## PDF
-- [Scarica il PDF del report 2026-04-08](./reports/fashion-trend-report-2026-04-08.pdf)
+- [Scarica il PDF del report 2026-04-08](./fashion-trend-report-2026-04-08.pdf)
