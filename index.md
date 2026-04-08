@@ -14,15 +14,15 @@ L’obiettivo non è solo descrivere ciò che si vede ora, ma capire cosa sta ac
 ## Ultimo report
 
 ### 8 aprile 2026
-**Fashion Trend Intelligence Report**  
+**Report di Intelligence Trend Moda**  
 Focus: Italia, Europa, Resto del Mondo
 
-- [Leggi il report HTML](./fashion-trend-report-2026-04-08.html)
-- [Scarica il PDF](./fashion-trend-report-2026-04-08.pdf)
+- [Leggi il report HTML](./fashion-trend-report-2026-04-08-it.html)
+- [Scarica il PDF](./fashion-trend-report-2026-04-08-it.pdf)
 
 ## Archivio report
 
-- 2026-04-08, [HTML](./fashion-trend-report-2026-04-08.html), [PDF](./fashion-trend-report-2026-04-08.pdf)
+- 2026-04-08, [HTML](./fashion-trend-report-2026-04-08-it.html), [PDF](./fashion-trend-report-2026-04-08-it.pdf)
 
 ## Metodo
 
